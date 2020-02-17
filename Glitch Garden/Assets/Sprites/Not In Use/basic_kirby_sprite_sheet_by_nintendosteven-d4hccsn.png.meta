@@ -1,0 +1,4457 @@
+fileFormatVersion: 2
+guid: 92590380216123449832bae250332854
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_0
+    21300002: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_1
+    21300004: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_2
+    21300006: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_3
+    21300008: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_4
+    21300010: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_5
+    21300012: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_6
+    21300014: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_7
+    21300016: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_8
+    21300018: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_9
+    21300020: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_10
+    21300022: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_11
+    21300024: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_12
+    21300026: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_13
+    21300028: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_14
+    21300030: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_15
+    21300032: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_16
+    21300034: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_17
+    21300036: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_18
+    21300038: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_19
+    21300040: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_20
+    21300042: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_21
+    21300044: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_22
+    21300046: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_23
+    21300048: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_24
+    21300050: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_25
+    21300052: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_26
+    21300054: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_27
+    21300056: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_28
+    21300058: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_29
+    21300060: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_30
+    21300062: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_31
+    21300064: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_32
+    21300066: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_33
+    21300068: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_34
+    21300070: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_35
+    21300072: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_36
+    21300074: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_37
+    21300076: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_38
+    21300078: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_39
+    21300080: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_40
+    21300082: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_41
+    21300084: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_42
+    21300086: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_43
+    21300088: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_44
+    21300090: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_45
+    21300092: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_46
+    21300094: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_47
+    21300096: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_48
+    21300098: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_49
+    21300100: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_50
+    21300102: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_51
+    21300104: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_52
+    21300106: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_53
+    21300108: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_54
+    21300110: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_55
+    21300112: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_56
+    21300114: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_57
+    21300116: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_58
+    21300118: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_59
+    21300120: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_60
+    21300122: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_61
+    21300124: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_62
+    21300126: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_63
+    21300128: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_64
+    21300130: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_65
+    21300132: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_66
+    21300134: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_67
+    21300136: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_68
+    21300138: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_69
+    21300140: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_70
+    21300142: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_71
+    21300144: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_72
+    21300146: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_73
+    21300148: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_74
+    21300150: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_75
+    21300152: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_76
+    21300154: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_77
+    21300156: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_78
+    21300158: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_79
+    21300160: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_80
+    21300162: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_81
+    21300164: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_82
+    21300166: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_83
+    21300168: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_84
+    21300170: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_85
+    21300172: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_86
+    21300174: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_87
+    21300176: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_88
+    21300178: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_89
+    21300180: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_90
+    21300182: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_91
+    21300184: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_92
+    21300186: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_93
+    21300188: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_94
+    21300190: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_95
+    21300192: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_96
+    21300194: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_97
+    21300196: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_98
+    21300198: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_99
+    21300200: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_100
+    21300202: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_101
+    21300204: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_102
+    21300206: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_103
+    21300208: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_104
+    21300210: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_105
+    21300212: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_106
+    21300214: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_107
+    21300216: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_108
+    21300218: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_109
+    21300220: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_110
+    21300222: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_111
+    21300224: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_112
+    21300226: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_113
+    21300228: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_114
+    21300230: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_115
+    21300232: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_116
+    21300234: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_117
+    21300236: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_118
+    21300238: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_119
+    21300240: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_120
+    21300242: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_121
+    21300244: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_122
+    21300246: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_123
+    21300248: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_124
+    21300250: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_125
+    21300252: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_126
+    21300254: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_127
+    21300256: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_128
+    21300258: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_129
+    21300260: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_130
+    21300262: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_131
+    21300264: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_132
+    21300266: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_133
+    21300268: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_134
+    21300270: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_135
+    21300272: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_136
+    21300274: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_137
+    21300276: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_138
+    21300278: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_139
+    21300280: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_140
+    21300282: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_141
+    21300284: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_142
+    21300286: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_143
+    21300288: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_144
+    21300290: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_145
+    21300292: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_146
+    21300294: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_147
+    21300296: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_148
+    21300298: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_149
+    21300300: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_150
+    21300302: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_151
+    21300304: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_152
+    21300306: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_153
+    21300308: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_154
+    21300310: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_155
+    21300312: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_156
+    21300314: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_157
+    21300316: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_158
+    21300318: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_159
+    21300320: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_160
+    21300322: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_161
+    21300324: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_162
+    21300326: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_163
+    21300328: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_164
+    21300330: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_165
+    21300332: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_166
+    21300334: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_167
+    21300336: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_168
+    21300338: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_169
+    21300340: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_170
+    21300342: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_171
+    21300344: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_172
+    21300346: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_173
+    21300348: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_174
+    21300350: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_175
+    21300352: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_176
+    21300354: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_177
+    21300356: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_178
+    21300358: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_179
+    21300360: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_180
+    21300362: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_181
+    21300364: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_182
+    21300366: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_183
+    21300368: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_184
+    21300370: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_185
+    21300372: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_186
+    21300374: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_187
+    21300376: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_188
+    21300378: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_189
+    21300380: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_190
+    21300382: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_191
+    21300384: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_192
+    21300386: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_193
+    21300388: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_194
+    21300390: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_195
+    21300392: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_196
+    21300394: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_197
+    21300396: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_198
+    21300398: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_199
+    21300400: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_200
+    21300402: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_201
+    21300404: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_202
+    21300406: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_203
+    21300408: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_204
+    21300410: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_205
+    21300412: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_206
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 623
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f86a4ecc940454d84118dcda6255d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 623
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a9928717f53ae4aa547a193f720d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 627
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb4621e94b02942b07a6f5e4b2718f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd821b63994b0469f8530dcd71ee5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e1b30b39f78342ba36c12cbb68dd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6133fb7d87ee1941b424838e6dc2563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 598
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb81876b7665a54eac7613ce53b63d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 598
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32005b74b17b6b640a2a3c367f06a345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 597
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2588fe1c703c0e545821b1f0ebab3d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 597
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39c986e60f29db46a0ea654796196a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 597
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567d7a5b46cb47349a4ab1aba212e4a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 597
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7d61b329b816141acda6771d96a095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 598
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f400d21d70b2f4aa2b2338943bb96a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 598
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86fd0e643b60174eae7624a2e9b9c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 599
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e779e5f0137f74db34f61be704c4e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 599
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00341ed0cd562284fa038ab2e5063b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 603
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfce418944feef4f9d068d52fb03b77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfe50f87912aa49999d872f412b368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de825d51d26b35419f57aaec8f7879b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb7d0c50e99ff4469ba202cd3ee82aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae002f07fd3959f4fbf67647dbc16486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 601
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778b35013b51f9f4a8ee0b3e5713e44b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 603
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50a6d33f1f2dd40a43276ec0e24ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 603
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c2eca72665dfa4fa2cbe59515abf29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd4d83a1800f84db3291237217ea5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 598
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5be0d1753b31345bd866f024a18958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 600
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a897103c7647a049970031879aaae57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 600
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5939bf96bc2dd3143bb54aaa7abaf1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 600
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd0e6023f52d8d4ab5920284726316d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_29
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 600
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b226f4277fcf2d84283e6ac0430705d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 573
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcc97509f0802c418210fb9e12c65c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 573
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f484315d4d372184d92239f7d7406e11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 573
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0eca07f2032e46a9cd06dc585c8c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 573
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1f98804d4edf34b938a3b42d3243e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 573
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6d4b6f136537458b093998283f7d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 573
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f1d6321b145a46a327475bbca2a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 573
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5da7ae0a3ada534a981f44be6be8c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 573
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e8b6db9f8fb8e41b1a42d52c1056f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 573
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e72e27490aa34c9c85d8eecb5c11a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 573
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb6a28d30719a4d9114a2ca4448279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 578
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046691051af71c74d895450e311141df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 578
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d5776ff87119945b25e32a8b8db94e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0c9f88840e6f34fafc82375d6f7aee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 578
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da815bbd626c49f4bbecc8fecb099218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_44
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 575
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0f8269cede07447ab8412d16dfaa3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 584
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092ccd5c1e802ed46b1f27d14f59b405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 549
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f369eb3e090a44893b16f361df356c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 568
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587074c516bad8b41b7886638ccad3ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 549
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5de3b771b6ef4f9045a56546f2f1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 549
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980745473503874409b5a9459afd18e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 549
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7bbc9f3ca5f8548ae646910cf6c1da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 549
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f2aa1eb3bb63444936bb90dffff1d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 549
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39088fc7254068c458726ccd9098fe64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_53
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 549
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df034b056c6b31e44b11bc2925d840e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 549
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a7a3f7133df6a49b89c504575b9742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_55
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 549
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4f0c088366ab4595cddca67541f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 556
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fecdd1e4d59374ea7dab437e8e6e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24024955f5616d24e859194607ef3f50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146bd6df86bf684a914dea7ccabb462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 556
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb148aab1b5c644a53a661dc798de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d406c64dd426ef844b6d7a4218d56716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 553
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510624aada326554d8db21a284585d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_62
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 556
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14797be7756d61e48bd5b0fe103d582e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 556
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b016893fef4849b328e5a324dd349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a182783285a5dc47b85ab4f20e0f239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_65
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405bd62ddeecee44aa4bc5cfbf57e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 556
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3036098f8502948af8f75775f571e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 556
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db14073037a708448aacbac3e91efd9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_68
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 556
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83417955f25114783610c519a77088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 525
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964dca0f442c2f489dd81da0fc050c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_70
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 482
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b9dd6650dfa7847a4d8a5e3384f5cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 525
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6511376a6a3397c48b905e8e9dc16f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 525
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f19c67a072f3524f8bd30fbee2c97bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 525
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e65a2e59f4f8bf40897e00d42f1a9e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 525
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01b6545bf3c3e6419e38ac35aca98a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_75
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 525
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b7afe7b282ad341a9291c24a5f9b15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_76
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 525
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8ce8bc0dd60f146a196bdf0af70151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_77
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 525
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7cd806de4d6fb448110271ba6cb64c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_78
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 525
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a575f39a93e147b4ebd387c854d39fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_79
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 530
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dbf1ae5708dc641b7737f8eade0d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b343bf50a506949bd9a9553c913286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 530
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c25b540cf17fc8429242e5235a0541c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_82
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 527
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162be33f6ea08ba48b1590ce3b6583d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b086c273676724f98e1e26ed34f109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 527
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edfd2108aa35ba4cb75f8ccc8ceb9b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_85
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 528
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a8d49f31221684b8d624f6afd009ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_86
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 530
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9cb4257ff96be49b0533a8747e05c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_87
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9f7f606948ebe48a0bd6b313f87354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_88
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d37cc604cd121439e4b7ad9f636c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 530
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d655ac86d8a5a47a46a66fc9f441e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_90
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e379fed701e84647a3e62b2ddec64c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_91
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 527
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb2f0bb82a9194b83bc4be4106ed59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 493
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9844262b4c521b8438d4257db3533a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_93
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 493
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c3f90d3a4d25945a0a55f58d268c4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 493
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4965829ca10437f4a817c35fa1fd88de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 493
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8733df3f8e3434e489c42a7003952490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 493
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b7bd1e0831724d99e09c7483e7889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 499
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a9683c1817e8d40adadb66100d62db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6524d3f396fe8b640a5cd3ad29bb74fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_99
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 499
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952c13c1289022c4eb4287874e010b55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_100
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711a3adf18a9854c9a64774a73f0e0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_101
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1e234c2bb61e84484831af1037e2ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_102
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 499
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a34cf147f0e174581cc54ea5aa8918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efecd2414c8a4f42a4a0fa7a3aeab8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_104
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 496
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94103a039e5e79f4b9dec8700ef2dc75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_105
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 497
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c78c16ccc51f2b448e326eb0f52e024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_106
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 499
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ec05fccffe9c24a8224eab7166bb40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_107
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 499
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da06aff5278384f8a741d6bdea6814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 499
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53c758be6e14f43aa8cbf6d38ad3d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_109
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 496
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca2edaeb51f0e94e928f16efa76096c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 467
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e09568f226ce50468259a8b8a76ce89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 467
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e1a7686052c242b58a80df492313b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_112
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 467
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e1961791c09e489d42d3b4cb49d08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_113
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 467
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb90ae79d0ac6ed4baa11129f713f41a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_114
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 467
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4425932309a005d4ea74156c457a6e4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_115
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 467
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e721c6e03077ab4882c2c79e64e8b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_116
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 468
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34867a04bfeeea54aa43b07e39c273f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_117
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 467
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d520a56bd1c354fb5ac76fd85c069b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_118
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 469
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e3fbbc706dddb4fa3aa235954728ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_119
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e456feba5532949b2e74bcc3158d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_120
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 467
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34458acf48e5f7b448dcccffc673ae9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_121
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 469
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c309fdb206da274bbfe2c0aa580d28f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_122
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 469
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c92c455086bd4943ae487f3fe064637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_123
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 469
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fccf0abad595c44db0eb134c75a32da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_124
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 450
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdb201a75c9c28419bc2f5fa3aa7ff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 452
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91ea0ec4910a2f44a46b8609a566d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_126
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 452
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6259ab61ba0ac4d43a788b27baf2d5ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 452
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e2be043c72fd14999ea598527b9c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_128
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 452
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21da8b29992ad514daf1f7b9cc5919fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 452
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b567fcd2342091429d1b39cf844ef9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_130
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 425
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de99eeea9aa19f4986e2cb94bb61b5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 425
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684276a3bc5de21438dac18233c401f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_132
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 426
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538885e4fe45f724a9339daa0f7de9b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 426
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f7310dafb64f34fbf63e408dd7310d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_134
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 426
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efddf9310710f8b45885326439af6ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_135
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 426
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14238c22f6d228748af572728e65080d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 426
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba6df6d24cc5c3428a620ac173bd055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_137
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 426
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da55b7f441c8845b94c1f460e6da89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_138
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 425
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43f8ae22b70c3743a64c38a01435757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_139
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 425
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42030b552c4b864db67b1705cca4253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_140
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 425
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35ce4fd5713f04ab381e467dea59e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_141
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 425
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7b899b4998b54b9aef2077209c741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 425
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b2cde43124f2418ec37ccc3fa0c60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_143
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 425
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2683ef9fdb18a0542b7b6388c14f4529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_144
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 424
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e306d18ecfda924e8ba3825c4c5d32d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_145
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 424
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70482c973f36948bb5dfc1c4b45193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_146
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 401
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447c64016b7200409031136027cfa07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_147
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 401
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be887eec178e7439d619fccd27d26c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_148
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 401
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eccc766b8c2394fbcefdf5de2fe843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 398
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75259c6d335c95840b6add8df50920a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_150
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 401
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a942a4232572e347a63a11f9aca0d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 401
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe07525a7df2d334386d5ed7d666359b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_152
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 401
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570c6d50bb4675d44a356b0e5e370217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_153
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 372
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a64085f1fc909548b5d36232c1b6fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_154
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 372
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a29698be008e4fa779ff5143bee15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_155
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 372
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad8a935139ee3841afc4ad6781f5185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_156
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 372
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66673249b4212241ab43d4b72388892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_157
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 372
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccdd5ffb3ae97f4da684188c83f96d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_158
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 372
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438eb83550ebc9346913d111c2cac387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_159
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 372
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36f8e4a7e278df499fbb9b9c7110abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_160
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 340
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60447da7d6bf43847a72a444d07a5ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_161
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 340
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11802687e66fbcf4bb320d2f2ae9199f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_162
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 340
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab05b83f1e663f34098ef02671fa1183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 341
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97a0ebd252a0849bcc5c72c0d6010a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_164
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 340
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed6084572d2774eba712d21bd0078a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_165
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 340
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f7fa2fec1e55438f138bff07d2a3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_166
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 308
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f86ff84a77634bbd66f3eda4f21b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_167
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 306
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5904b3471f4e4697dded613c69eed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_168
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22edb5aa4b824214eaa134fe819f2e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_169
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 262
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff58f4d5805964d8fbae79cb8cae6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_170
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 294
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5569074b2e14f104eb1a16a336f04702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 266
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c81fa2201471f47b713acfdfc3a6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_172
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 266
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5bd3d0b2e79a4d96c026821dee281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_173
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 270
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e5f2bbe51fddb43a7a694bafbea0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_174
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 270
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d850266048161f40aebcca52c4b2e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_175
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 269
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b415dfe2960bf41bfcd127d2a46464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 224
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035a5891306b5644497ab1ee178ad569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_177
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 224
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141084bd811bf964e99aa24c6fa1c969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_178
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 224
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801f20bcdf075b46a89257549b520e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_179
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 224
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3ab29119286948bb41a7cfa0d51f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_180
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 225
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c39914ff5958ea41a254cfb34c5c289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_181
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 228
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c96bb8591473bd4099d9918f422009f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_182
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 229
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64450e09824931469e70850b28393fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_183
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 232
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df87b7707bd0e6a47b7ecc44ab8b95d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_184
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059903eeb7469e54f9fa6ad7c643ddb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_185
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc6016f2b028444e8ea747b26e15be2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_186
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d72d76433b06b84e9dc082c46dd2bd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_187
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 192
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd83093742cf5449e0379658dda78c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_188
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 161
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f69bd9d18be7e479a6c3d7e5603ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_189
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 161
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d899b758e64228b4e87826f611c7baf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_190
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306849ce2c38249408829dae4429a33e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_191
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 143
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8b8e5db3652a46bbf6751a5c6964b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_192
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a2efddf2a7e34a8f9bf413e239786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_193
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 146
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe81ab87be6fb9478f6e7bfc7188481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_194
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c50334598ee542b6b5821d686accb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_195
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 146
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce39d2dc1ea3c5042b831b01bfcba36c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_196
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51444b72cd0e1c8418cc29c1498c4032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_197
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80fb6ded4d85f4fb30cd4c7e245b9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_198
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb803b704a25c844aad7df1661ccc58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_199
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fe9f79d0f02ab4f996452c10c68f24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_200
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c29b1175ce6b9047b4da0efda85c297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_201
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bddb987a3acf6a4e9394b5fc207aff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_202
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0183e51b58984c142bbf7200b0f4aadf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_203
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c798ba4c92473344fa0fb2f611dc563b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_204
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 114
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9adffb567b704689be8cd91fa6a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_205
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e97187b48ff2742948df49d69d2c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_kirby_sprite_sheet_by_nintendosteven-d4hccsn_206
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 59
+        width: 404
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a46d9062b1ba4f83782c398c3d92b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 518facde273ba8c428e4f55b689cb91f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
